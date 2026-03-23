@@ -5,78 +5,91 @@ include_in_header: true
 ---
 
 ### `Latest`
-# Version 1.0 Release Notes
-## Welcome to Protagonist – Your Life Show 🎬
+# Version 1.0
+## Welcome to Bloom
 **Version 1.0 – March 2026**
 
-We're thrilled to introduce Protagonist — a cinematic journaling app that turns your daily life into a TV show worth watching.
+Bloom is your complete women's health companion — one app for every stage of your reproductive journey.
 
 ---
 
-### 🎬 Episode Logging
-- Log each day as an Episode with a title, description, and mood
-- Rate your mood with expressive faces
-- Add tags to your episodes
-- Star the moments worth remembering
-- Mark episodes as hidden to keep private moments out of view
+### Cycle Tracking
+- Log your period start and end, flow, symptoms, mood, and energy every day
+- Bloom predicts your next cycle, fertile window, and each phase — Menstrual, Follicular, Ovulation, and Luteal
+- Calendar view with month and year layouts, coloured by cycle phase
+- Cycle Length History chart with regularity score in Insights
 
-### 📺 Seasons
-- Your life organises into Seasons (years) automatically
-- Browse every episode by month within each season
-- Customise each season with a unique colour theme
+### TTC — Trying to Conceive
+- Dedicated mode highlighting your fertile window and ovulation day
+- Log BBT (basal body temperature) and LH surge tests
+- Countdown to your next fertile window
+- Fertility analytics in Insights
 
-### 🎉 Season Wrapped
-- At the close of every Season, swipe through a stunning animated recap
-- See your total episodes, mood journey, highlight reel, and best moments
-- Brought together like a real season finale
+### Pregnancy Tracker
+- Week-by-week tracking from LMP to due date
+- Baby size comparison each week (Poppy Seed → Watermelon)
+- Trimester progress in calendar — T1, T2, T3 colour-coded by week
+- Kick counter, contraction timer, and weight chart
+- Multiple pregnancy support — Twins, Triplets, and 4+
+- Weekly milestones and development notes
+- Upcoming appointment cards
 
-### 📊 Stats That Tell Your Story
-- Total episodes logged and current streak
-- Your personal best streak
-- Mood heatmap — your entire year mapped day by day
-- 30-day mood trend chart and monthly mood averages
-- Best day, toughest day, and full streak history
-- Word cloud of your most-written themes
+### Postpartum Recovery
+- 12-week recovery tracker with week-by-week milestone timeline
+- Feeding session log with duration, side, and analytics
+- Sleep fragmentation chart — blocks, longest stretch, total rest
+- Mood check-in with 30-day mood patterns
+- Recovery log for symptoms and notes
 
-### 🎴 Share Your Moments
-- Export episodes as cinematic share cards
-- Four styles: Ticket, Clean, Minimal, and Retro Film
-- Share a full Season Recap with mood breakdown and highlights
-- Copy, save to Photos, or share anywhere
+### Health Insights
+- Personal Health Score (0–100) across Cycle Regularity, Logging Consistency, Symptom Variety, and Energy Consistency
+- Mood & Energy patterns — 30-day bar chart, average energy score
+- Energy by cycle phase — discover your highest-energy phase
+- Hormone phase science cards for each phase
+- Pregnancy weight chart with IOM gain guidelines
+- Feeding analytics with daily and weekly trend chart
+- Cycle History list — every past cycle with start date, end date, and length
 
-### 🎟️ Director's Cut (Premium)
-Unlock the full story of your life:
-- **All Past Seasons** — never lose a chapter
-- **Deep Stats** — heatmap, mood trends, streak history & word cloud
-- **Season Themes** — personalise your colour palette each year
-- **Premium Share Cards** — Minimal, Retro Film & more styles
-- **Smart Reminders** — daily prompts & streak-rescue at 9pm
-- **Export** — PDF season book, CSV & JSON data backup
-- **Hidden Episodes** — keep private moments out of view
+### Widgets
+- Lock screen and home screen widgets for all 4 modes
+- Small and medium home screen sizes
+- Inline, circular, and rectangular lock screen sizes
+- Real-time data via App Groups — always up to date
 
-Choose monthly, annual, or a one-time lifetime purchase.
+### iCloud Sync
+- All health data syncs privately across your Apple devices
+- No account required — just sign in to iCloud
 
-### 🔒 Core Features
-- Beautiful dark cinematic interface
-- Offline functionality — no internet required
-- Optional iCloud sync across all your Apple devices
-- No account required. No ads. No tracking.
-- Your data stays on your device
+### Privacy by Design
+- All data stored locally on your device
+- Optional iCloud sync using your private Apple account
+- Full Apple Health (HealthKit) integration — read and write cycle, fertility, and reproductive health data
+- No ads, no tracking, no third-party analytics
+
+---
+
+### Premium Features
+Unlock the full Bloom experience:
+
+- **Cycle History** — complete dated list of all past cycles
+- **Full Insights** — Health Score, hormone science, energy by phase, fertility analytics
+- **Daily Log Reminder** — get reminded to log each day
+- **Export Data** — download all your health data as a CSV file
 
 ---
 
 ### COMING SOON
 - iPad support
-- Widgets
-- More share card styles
+- Apple Watch complication
 - More languages
+- Partner mode
 
 ---
 
 ### YOUR FEEDBACK MATTERS
 
-Protagonist is built for you. If you have suggestions, feature requests, or encounter any issues, please reach out at **osanuo.studio@gmail.com**
+Bloom is built for you. If you have suggestions, feature requests, or encounter any issues, reach out at **osanuo.studio@gmail.com**
 
-Thank you for making Protagonist part of your story. You are the main character. 🎬
+Thank you for choosing Bloom. Your health, your data, your journey.
 
 <br>
